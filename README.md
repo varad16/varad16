@@ -100,13 +100,10 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 
 ---
 
-## 🎧 What I'm listening to
+## ⏱️ Weekly coding breakdown
 
-<div align="center">
-
-[![Spotify](https://novatorem-varad16.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
