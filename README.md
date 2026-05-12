@@ -80,10 +80,9 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 ## 📊 GitHub stats
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=varad16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varad16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=varad16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=varad16&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varad16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
