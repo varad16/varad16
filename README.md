@@ -4,8 +4,8 @@
 
 ### Building AI systems that ship — from RAG pipelines to multi-agent workflows.
 
-<a href="https://www.linkedin.com/in/varad-tawde/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="mailto:varadtawde@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/varadtawde/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+<a href="mailto:varadtawde03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=varad16&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
