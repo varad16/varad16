@@ -100,11 +100,9 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 ## ⏱️ Weekly coding breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 63.7 kB Used in GitHub's Storage 
+> 📦 63.9 kB Used in GitHub's Storage 
  > 
 > 🏆 45 Contributions in the Year 2026
  > 
@@ -114,45 +112,8 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                22 commits          █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-🌆 Daytime                50 commits          ███████████░░░░░░░░░░░░░░   45.05 % 
-🌃 Evening                25 commits          ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-🌙 Night                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   30 commits          ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-Tuesday                  13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Saturday                 27 commits          ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-Sunday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 12/05/2026 02:43:59 UTC
+ Last Updated on 13/05/2026 02:49:57 UTC
 <!--END_SECTION:waka-->
 
 ---
