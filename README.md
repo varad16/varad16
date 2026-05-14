@@ -100,6 +100,8 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 ## ⏱️ Weekly coding breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 63.9 kB Used in GitHub's Storage 
@@ -112,8 +114,46 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 13/05/2026 02:49:57 UTC
+```text
+🌞 Morning                22 commits          █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+🌆 Daytime                50 commits          ███████████░░░░░░░░░░░░░░   45.05 % 
+🌃 Evening                25 commits          ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+🌙 Night                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   30 commits          ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+Tuesday                  13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Saturday                 27 commits          ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+Sunday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   1 min               █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  1 min               █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          1 min               ████████████████████████░   96.21 % 
+spurious-r18             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+
+💻 Operating System: 
+Mac                      1 min               █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 14/05/2026 02:51:37 UTC
 <!--END_SECTION:waka-->
 
 ---
