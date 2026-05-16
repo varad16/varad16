@@ -100,6 +100,8 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 ## ⏱️ Weekly coding breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 63.9 kB Used in GitHub's Storage 
@@ -112,8 +114,49 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 15/05/2026 02:52:27 UTC
+```text
+🌞 Morning                24 commits          █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+🌆 Daytime                50 commits          ███████████░░░░░░░░░░░░░░   42.74 % 
+🌃 Evening                29 commits          ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+🌙 Night                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   30 commits          ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Tuesday                  13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Thursday                 16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Saturday                 27 commits          ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Sunday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+YAML                     2 mins              ██████████████░░░░░░░░░░░   56.00 % 
+Python                   1 min               ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+INI                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+
+🔥 Editors: 
+VS Code                  4 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+treehacks-invoice-fraud-d3 mins              ██████████████████░░░░░░░   70.85 % 
+Unknown Project          1 min               ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+spurious-r18             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+
+💻 Operating System: 
+Mac                      4 mins              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/05/2026 02:40:49 UTC
 <!--END_SECTION:waka-->
 
 ---
