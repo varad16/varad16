@@ -100,38 +100,38 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 ## ⏱️ Weekly coding breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 63.9 kB Used in GitHub's Storage 
+> 📦 64.0 kB Used in GitHub's Storage 
  > 
-> 🏆 54 Contributions in the Year 2026
+> 🏆 62 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                24 commits          █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-🌆 Daytime                50 commits          ███████████░░░░░░░░░░░░░░   42.74 % 
-🌃 Evening                29 commits          ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-🌙 Night                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+🌞 Morning                24 commits          █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+🌆 Daytime                54 commits          ███████████░░░░░░░░░░░░░░   44.63 % 
+🌃 Evening                29 commits          ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+🌙 Night                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   30 commits          ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-Tuesday                  13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Thursday                 16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Saturday                 27 commits          ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Sunday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Monday                   30 commits          ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+Tuesday                  13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Thursday                 16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Saturday                 31 commits          ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+Sunday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
 ```
 
 
@@ -156,7 +156,7 @@ Mac                      4 mins              ███████████�
 ```
 
 
- Last Updated on 16/05/2026 02:40:49 UTC
+ Last Updated on 17/05/2026 02:49:32 UTC
 <!--END_SECTION:waka-->
 
 ---
