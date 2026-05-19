@@ -100,6 +100,8 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 ## ⏱️ Weekly coding breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 64.0 kB Used in GitHub's Storage 
@@ -137,24 +139,24 @@ Sunday                   14 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     2 mins              ██████████████░░░░░░░░░░░   56.00 % 
-Python                   1 min               ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-INI                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+YAML                     5 mins              ████████████████░░░░░░░░░   62.57 % 
+Python                   2 mins              ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+INI                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-treehacks-invoice-fraud-d3 mins              ██████████████████░░░░░░░   70.85 % 
-Unknown Project          1 min               ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-spurious-r18             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+treehacks-invoice-fraud-d7 mins              ███████████████████░░░░░░   77.06 % 
+Unknown Project          2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+spurious-r18             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/05/2026 02:59:43 UTC
+ Last Updated on 19/05/2026 02:55:44 UTC
 <!--END_SECTION:waka-->
 
 ---
