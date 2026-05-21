@@ -139,24 +139,22 @@ Sunday                   14 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     5 mins              ████████████████░░░░░░░░░   62.57 % 
-Python                   2 mins              ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-INI                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+YAML                     5 mins              ████████████████████░░░░░   81.19 % 
+INI                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-treehacks-invoice-fraud-d7 mins              ███████████████████░░░░░░   77.06 % 
-Unknown Project          2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-spurious-r18             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+treehacks-invoice-fraud-d7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/05/2026 02:56:14 UTC
+ Last Updated on 21/05/2026 03:00:15 UTC
 <!--END_SECTION:waka-->
 
 ---
