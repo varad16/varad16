@@ -100,36 +100,38 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 ## ⏱️ Weekly coding breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 64.0 kB Used in GitHub's Storage 
  > 
-> 🏆 62 Contributions in the Year 2026
+> 🏆 66 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 29 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                24 commits          █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-🌆 Daytime                54 commits          ███████████░░░░░░░░░░░░░░   44.63 % 
-🌃 Evening                29 commits          ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-🌙 Night                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+🌞 Morning                26 commits          █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+🌆 Daytime                54 commits          ███████████░░░░░░░░░░░░░░   43.90 % 
+🌃 Evening                29 commits          ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+🌙 Night                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   30 commits          ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-Tuesday                  13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Thursday                 16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Saturday                 31 commits          ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-Sunday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Monday                   30 commits          ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+Tuesday                  13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Thursday                 16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Friday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Saturday                 31 commits          ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+Sunday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
 ```
 
 
@@ -137,22 +139,20 @@ Sunday                   14 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     5 mins              ████████████████████░░░░░   81.19 % 
-INI                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-treehacks-invoice-fraud-d7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/05/2026 02:59:48 UTC
+ Last Updated on 23/05/2026 02:44:53 UTC
 <!--END_SECTION:waka-->
 
 ---
