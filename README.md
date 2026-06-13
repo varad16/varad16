@@ -50,14 +50,12 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
   <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" />
 </p>
 
-#### Apple Platforms
+#### Apple Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=swift" />
   <img src="https://img.shields.io/badge/SwiftUI-0071E3?logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/AVFoundation-1D1D1F?logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Speech-1D1D1F?logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Core_ML-0071E3?logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vision-1D1D1F?logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Metal-A8B9CC?logo=apple&logoColor=white" />
 </p>
 
