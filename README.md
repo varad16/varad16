@@ -28,8 +28,7 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 
 ## 🛠️ Tech stack
 
-### Agentic AI & LLM Orchestration
-
+#### Agentic AI & LLM Orchestration
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-FF6F61?logo=langchain&logoColor=white" />
@@ -39,6 +38,26 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
   <img src="https://img.shields.io/badge/LlamaIndex-4B0082?logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-000000?logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Pydantic_AI-E92063?logo=pydantic&logoColor=white" />
+</p>
+
+#### Foundation Models
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mistral-FF7000?logo=mistralai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" />
+</p>
+
+#### GPU & Inference Systems
+<p>
+  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Triton-AC1E2D?logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorRT-76B900?logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-FF6B35?logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWQ-4B0082?logoColor=white" />
 </p>
 
 #### Languages
