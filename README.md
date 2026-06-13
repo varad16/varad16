@@ -20,7 +20,7 @@ location:       Los Angeles, CA 🇺🇸
 education:      MS Computer Science @ USC (AI/ML), 2027
                 BS Computer Science @ Cal State Monterey Bay (magna cum laude)
 currently:      Applying for Summer 2026 AI/ML internships
-focus:          Multi-agent LLMs · RAG · Agentic workflows · Full-stack AI
+focus:          Multi-agent LLMs · Voice agents · VLMs / VLAs · CUDA kernels
 fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 ```
 
@@ -28,14 +28,17 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 
 ## 🛠️ Tech stack
 
-#### AI / ML
+Agentic AI & LLM Orchestration
+
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mistral-FF7000?logo=mistralai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6F61?logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoGen-0078D4?logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?logoColor=white" />
+  <img src="https://img.shields.io/badge/DSPy-2A5CDB?logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-4B0082?logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic_AI-E92063?logo=pydantic&logoColor=white" />
 </p>
 
 #### Languages
