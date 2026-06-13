@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Varad Tawde
 
-### Building AI systems that ship — from RAG pipelines to multi-agent workflows.
+### Building AI systems that ship from RAG pipelines to multi-agent workflows.
 
 <a href="https://www.linkedin.com/in/varadtawde/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:varadtawde03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
