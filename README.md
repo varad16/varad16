@@ -28,7 +28,7 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 
 ## 🛠️ Tech stack
 
-Agentic AI & LLM Orchestration
+### Agentic AI & LLM Orchestration
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" />
