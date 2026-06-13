@@ -99,6 +99,16 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 
 ---
 
+## 🚀 Featured projects
+ 
+| Project | What it does | Stack |
+|---|---|---|
+| **[Kernel-Inference-Engine](https://github.com/varad16/Kernel-Inference-Engine)** | CUDA kernel library for fused attention + LayerNorm; 2.4× lower latency vs cuDNN on A100 | CUDA · TensorFlow C++ · BERT |
+| **[vla-gui](https://github.com/varad16/vla-gui)** | Quantized Vision-Language-Action agent for desktop automation (LoRA SFT + GRPO, AWQ 4-bit) | Qwen2-VL-7B · ReAct · AWQ |
+| **[Memory-graph](https://github.com/varad16/Memory-graph)** | Hybrid FAISS + Neo4j retrieval with cross-encoder reranker, exposed via GraphQL | Sentence-BERT · Neo4j · GraphQL |
+| **[voicepilot](https://github.com/varad16/voicepilot)** | Agentic Swift voice assistant — sliding-window chunking, NLEmbedding retrieval, EventKit + MailKit | Swift · AVFoundation · Speech |
+| **[Instruction-Guided-Image-Editing-Agent](https://github.com/varad16/Instruction-Guided-Image-Editing-Agent)** | Diffusion editor with a VLM critic loop for instruction-faithful image edits | Diffusion · VLM · PyTorch |
+
 ## 📊 GitHub stats
 
 <div align="center">
