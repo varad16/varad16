@@ -73,29 +73,20 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 
 #### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,go" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,go" />
 </p>
-
-#### Frontend
+#### Backend, Frontend & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs,tailwind" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
 </p>
-
-#### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
-</p>
-
-#### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
-  <img src="https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white" />
-</p>
-
 #### DevOps & Tooling
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,git,github" />
+  <img src="https://img.shields.io/badge/W%26B-FFBE00?logo=weightsandbiases&logoColor=black" />
 </p>
+
 
 
 ## 🚀 Featured projects
