@@ -75,12 +75,14 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,go" />
 </p>
+
 #### Backend, Frontend & Data
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs,tailwind" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" />
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
 </p>
+
 #### DevOps & Tooling
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,git,github" />
