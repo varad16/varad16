@@ -86,18 +86,6 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
   <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,git,github" />
 </p>
 
----
-
-## 🚀 Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[ResearchBot](https://github.com/varad16/ResearchBot)** | LangChain ReAct agent for autonomous research with tool use & memory | LangChain · FastAPI · MongoDB |
-| **[Multi-Agent Misinformation Detection](https://github.com/varad16)** | RAG pipeline with multi-agent debate over claims | BERT · FAISS · Mistral-7B |
-| **[FlowForge](https://github.com/varad16/FlowForge)** | Visual multi-agent workflow builder with DAG runner | React Flow · LangGraph · Node |
-| **[SwipeMatch](https://github.com/varad16/SwipeMatch)** | Android social discovery app | Kotlin · Jetpack Compose |
-
----
 
 ## 🚀 Featured projects
  
