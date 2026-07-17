@@ -122,8 +122,6 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 ## ⏱️ Weekly coding breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 70.4 kB Used in GitHub's Storage 
@@ -174,7 +172,7 @@ Mac                      0 secs              ███████████�
 ```
 
 
- Last Updated on 16/07/2026 02:20:25 UTC
+ Last Updated on 17/07/2026 02:24:09 UTC
 <!--END_SECTION:waka-->
 
 ---
