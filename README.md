@@ -161,26 +161,44 @@ Sunday                   19 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     1 min               ███████████████░░░░░░░░░░   60.02 % 
+TOML                     0 secs              ██████████░░░░░░░░░░░░░░░   39.98 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               ███████████████████████░░   93.39 % 
+Claude Code              0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Vision-Project-CSCI-566  1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 min (60.02%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 47,845 Input Tokens, 1,444 Output Tokens
+
+💵 $0.27 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 282 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/10/2026 03:10:27 UTC
+ Last Updated on 25/10/2026 03:05:25 UTC
 <!--END_SECTION:waka-->
 
 ---
