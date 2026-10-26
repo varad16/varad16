@@ -122,7 +122,9 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 ## ⏱️ Weekly coding breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20min-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -161,44 +163,46 @@ Sunday                   19 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     1 min               ███████████████░░░░░░░░░░   60.02 % 
-TOML                     0 secs              ██████████░░░░░░░░░░░░░░░   39.98 % 
+Python                   8 mins              ████████████████████░░░░░   81.83 % 
+Text                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+TOML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 
 🔥 Editors: 
-VS Code                  1 min               ███████████████████████░░   93.39 % 
-Claude Code              0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+VS Code                  10 mins             █████████████████████████   98.80 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🐱‍💻 Projects: 
-Vision-Project-CSCI-566  1 min               █████████████████████████   100.00 % 
+Vision-Project-CSCI-566  10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (60.02%)
+⏱ AI Coding Time: 9 mins (92.74%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 372 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 47,845 Input Tokens, 1,444 Output Tokens
+🔤 126,519 Input Tokens, 20,761 Output Tokens
 
-💵 $0.27 Estimated AI Cost This Week
+💵 $0.88 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
+Sonnet                   379 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 282 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 500 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/10/2026 03:05:25 UTC
+ Last Updated on 26/10/2026 03:05:10 UTC
 <!--END_SECTION:waka-->
 
 ---
