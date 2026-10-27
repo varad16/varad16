@@ -122,40 +122,40 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 ## ⏱️ Weekly coding breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 71.3 kB Used in GitHub's Storage 
+> 📦 92.9 kB Used in GitHub's Storage 
  > 
-> 🏆 136 Contributions in the Year 2026
+> 🏆 138 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 47 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                41 commits          ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-🌆 Daytime                77 commits          ███████████░░░░░░░░░░░░░░   42.08 % 
-🌃 Evening                51 commits          ███████░░░░░░░░░░░░░░░░░░   27.87 % 
-🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+🌞 Morning                41 commits          ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+🌆 Daytime                79 commits          ███████████░░░░░░░░░░░░░░   42.70 % 
+🌃 Evening                51 commits          ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   44 commits          ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Wednesday                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Thursday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Saturday                 43 commits          ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-Sunday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Monday                   44 commits          ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Wednesday                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Thursday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Friday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Saturday                 43 commits          ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+Sunday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
 ```
 
 
@@ -163,33 +163,35 @@ Sunday                   19 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   8 mins              ████████████████████░░░░░   81.83 % 
-Text                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-TOML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Python                   8 mins              ████████████░░░░░░░░░░░░░   46.44 % 
+JSON                     7 mins              ███████████░░░░░░░░░░░░░░   43.25 % 
+Text                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+TOML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   98.80 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+VS Code                  11 mins             ███████████████░░░░░░░░░░   61.47 % 
+Claude Code              6 mins              ██████████░░░░░░░░░░░░░░░   38.53 % 
 
 🐱‍💻 Projects: 
-Vision-Project-CSCI-566  10 mins             █████████████████████████   100.00 % 
+Vision-Project-CSCI-566  10 mins             ██████████████░░░░░░░░░░░   56.75 % 
+student-starter 2        7 mins              ███████████░░░░░░░░░░░░░░   43.25 % 
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (92.74%)
+⏱ AI Coding Time: 16 mins (90.48%)
 
 ✍️ 372 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 126,519 Input Tokens, 20,761 Output Tokens
+🔤 182,324 Input Tokens, 30,921 Output Tokens
 
-💵 $0.88 Estimated AI Cost This Week
+💵 $1.28 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
 Sonnet                   379 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -202,7 +204,7 @@ Opus                     0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 26/10/2026 03:05:10 UTC
+ Last Updated on 27/10/2026 03:36:24 UTC
 <!--END_SECTION:waka-->
 
 ---
