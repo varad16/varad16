@@ -122,9 +122,9 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 ## ⏱️ Weekly coding breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -204,7 +204,7 @@ Opus                     0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 27/10/2026 03:36:24 UTC
+ Last Updated on 28/10/2026 03:52:41 UTC
 <!--END_SECTION:waka-->
 
 ---
