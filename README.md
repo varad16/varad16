@@ -128,7 +128,7 @@ fun_fact:       Former national-level competitive swimmer & triathlete 🏊
 
 **🐱 My GitHub Data** 
 
-> 📦 92.9 kB Used in GitHub's Storage 
+> 📦 93.0 kB Used in GitHub's Storage 
  > 
 > 🏆 138 Contributions in the Year 2026
  > 
@@ -163,48 +163,46 @@ Sunday                   19 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   8 mins              ████████████░░░░░░░░░░░░░   46.44 % 
-JSON                     7 mins              ███████████░░░░░░░░░░░░░░   43.25 % 
-Text                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-TOML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Python                   8 mins              █████████████░░░░░░░░░░░░   51.78 % 
+JSON                     7 mins              ████████████░░░░░░░░░░░░░   48.22 % 
 
 🔥 Editors: 
-VS Code                  11 mins             ███████████████░░░░░░░░░░   61.47 % 
-Claude Code              6 mins              ██████████░░░░░░░░░░░░░░░   38.53 % 
+VS Code                  9 mins              ██████████████░░░░░░░░░░░   57.80 % 
+Claude Code              6 mins              ███████████░░░░░░░░░░░░░░   42.20 % 
 
 🐱‍💻 Projects: 
-Vision-Project-CSCI-566  10 mins             ██████████████░░░░░░░░░░░   56.75 % 
-student-starter 2        7 mins              ███████████░░░░░░░░░░░░░░   43.25 % 
+Vision-Project-CSCI-566  8 mins              █████████████░░░░░░░░░░░░   51.78 % 
+student-starter 2        7 mins              ████████████░░░░░░░░░░░░░   48.22 % 
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+Mac                      16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (90.48%)
+⏱ AI Coding Time: 15 mins (93.98%)
 
 ✍️ 372 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 182,324 Input Tokens, 30,921 Output Tokens
+🔤 134,479 Input Tokens, 29,477 Output Tokens
 
-💵 $1.28 Estimated AI Cost This Week
+💵 $1.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
 Sonnet                   379 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 500 characters per prompt
+📄 Detailed Prompter — average 554 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/10/2026 03:57:28 UTC
+ Last Updated on 01/11/2026 04:11:54 UTC
 <!--END_SECTION:waka-->
 
 ---
